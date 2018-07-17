@@ -1,0 +1,14 @@
+I have consolidated and put together a notes from which i learnt from diffrent sources. I would like to keep it as random than to explain in each 
+subject area in detail.
+
+Guidelines while working  Maching learning projects :
+
+1. There are many number of classifiers in ML through which we achieve a solution. when we have encountered a typical sceanrio where in we have 
+multiple classifiers with multiple conditions like (accuracy and performance in milli seconds).It is good to use below formula and choose
+classifier which gives minimum of it
+                 Formula: accuracy -0.5*time in milli seconds
+                 
+ 2. Difference between recall, precision and F1 score.
+ F1 score is the average of reacll and precsision.
+ Precision is percentage of examples that were classified as positive 
+ Recall is the total percentage of Truly classified examples out of the psoitively classified  examples.
